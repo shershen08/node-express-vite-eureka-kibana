@@ -1,0 +1,90 @@
+[{
+    "email": "kayla.hall@example.com",
+    "gender": "female",
+    "phone_number": "(932)-142-5202",
+    "birthdate": 450297969,
+    "location": {
+      "street": "1935 aldwins road",
+      "city": "whangarei",
+      "state": "gisborne",
+      "postcode": 22546
+    },
+    "username": "beautifulkoala361",
+    "password": "lickit",
+    "first_name": "kayla",
+    "last_name": "hall",
+    "title": "ms",
+    "picture": "women/32.jpg"
+  },
+  {
+    "email": "jimmie.simmons@example.com",
+    "gender": "male",
+    "phone_number": "0702-239-646",
+    "birthdate": 691663054,
+    "location": {
+      "street": "1790 the grove",
+      "city": "bangor",
+      "state": "isle of wight",
+      "postcode": "D0 5PJ"
+    },
+    "username": "silverelephant404",
+    "password": "stang",
+    "first_name": "jimmie",
+    "last_name": "simmons",
+    "title": "mr",
+    "picture": "men/25.jpg"
+  },
+  {
+    "email": "benedikt.hein@example.com",
+    "gender": "male",
+    "phone_number": "0170-2625830",
+    "birthdate": 233934049,
+    "location": {
+      "street": "5245 kirchstraße",
+      "city": "börde",
+      "state": "hessen",
+      "postcode": 99021
+    },
+    "username": "goldenelephant510",
+    "password": "katie1",
+    "first_name": "benedikt",
+    "last_name": "hein",
+    "title": "mr",
+    "picture": "men/56.jpg"
+  },
+  {
+    "email": "aloïs.moulin@example.com",
+    "gender": "male",
+    "phone_number": "(334)-138-2260",
+    "birthdate": 787209800,
+    "location": {
+      "street": "6574 rue cyrus-hugues",
+      "city": "berolle",
+      "state": "genève",
+      "postcode": 8691
+    },
+    "username": "silvergorilla196",
+    "password": "silver",
+    "first_name": "aloïs",
+    "last_name": "moulin",
+    "title": "monsieur",
+    "picture": "men/28.jpg"
+  },
+  {
+    "email": "noah.smith@example.com",
+    "gender": "male",
+    "phone_number": "314-264-1915",
+    "birthdate": 546423933,
+    "location": {
+      "street": "8380 st. lawrence ave",
+      "city": "inverness",
+      "state": "nova scotia",
+      "postcode": 24765
+    },
+    "username": "biggorilla322",
+    "password": "kane",
+    "first_name": "noah",
+    "last_name": "smith",
+    "title": "mr",
+    "picture": "men/20.jpg"
+  }]
